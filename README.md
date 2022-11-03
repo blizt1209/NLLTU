@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on **CouNa**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **titus.bug.1209@gmailcom**
 
-- ⚡ Fun fact **i play basketball and games very often.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
